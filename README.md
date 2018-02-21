@@ -1,2 +1,2 @@
 # Simple-Blog
-### started to accomplish M101J: MongoDB for Java Developers tasks at https://university.mongodb.com/
+### TODO: rewrite M101J Spark-Freemarker Blog from MongoDB for Java Developers course https://university.mongodb.com/
